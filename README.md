@@ -1,4 +1,3 @@
-
 TuShare
 ----
 ![](https://api.travis-ci.org/waditu/tushare.png?branch=master)
